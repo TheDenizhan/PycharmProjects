@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/10_Thresholding/.idea/10_Thresholding.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/10_Thresholding/.idea/10_Thresholding.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/11_Morfolojik İşlemler/.idea/11_Morfolojik İşlemler.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/11_Morfolojik İşlemler/.idea/11_Morfolojik İşlemler.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/12_Canny/.idea/12_Canny.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/12_Canny/.idea/12_Canny.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/13_Bitwise Operatörleri/.idea/13_Bitwise Operatörleri.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/13_Bitwise Operatörleri/.idea/13_Bitwise Operatörleri.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/14_Kameradan Görüntü Alma/.idea/14_Kameradan Görüntü Alma.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/14_Kameradan Görüntü Alma/.idea/14_Kameradan Görüntü Alma.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/15_Kameradan Alınan Görüntüye İşlem/.idea/15_Kameradan Alınan Görüntüye İşlem.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/15_Kameradan Alınan Görüntüye İşlem/.idea/15_Kameradan Alınan Görüntüye İşlem.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/16_Kameradan Alınan Görüntüyü Kaydetme/.idea/16_Kameradan Alınan Görüntüyü Kaydetme.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/16_Kameradan Alınan Görüntüyü Kaydetme/.idea/16_Kameradan Alınan Görüntüyü Kaydetme.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/2_Efekt Uygulama/.idea/2_Efekt Uygulama.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/2_Efekt Uygulama/.idea/2_Efekt Uygulama.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/3_Resim Grileştirme/.idea/3_Resim Grileştirme.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/3_Resim Grileştirme/.idea/3_Resim Grileştirme.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/4_Bulanıklaştırma/.idea/4_Bulanıklaştırma.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/4_Bulanıklaştırma/.idea/4_Bulanıklaştırma.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/5_Ağırlıklı Toplama/.idea/5_Ağırlıklı Toplama.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/5_Ağırlıklı Toplama/.idea/5_Ağırlıklı Toplama.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/6_Aynalama,Uzatma,Tekrarlama,Çerçeveleme,Kırpma,Yeniden Boyutlandırma/.idea/6_Aynalama,Uzatma,Tekrarlama,Çerçeveleme,Kırpma,Yeniden Boyutlandırma.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/6_Aynalama,Uzatma,Tekrarlama,Çerçeveleme,Kırpma,Yeniden Boyutlandırma/.idea/6_Aynalama,Uzatma,Tekrarlama,Çerçeveleme,Kırpma,Yeniden Boyutlandırma.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/7_Nokta,Çizgi,Dörtgen,Metin/.idea/7_Nokta,Çizgi,Dörtgen,Metin.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/7_Nokta,Çizgi,Dörtgen,Metin/.idea/7_Nokta,Çizgi,Dörtgen,Metin.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/8_Görüntü Piramitleri/.idea/8_Görüntü Piramitleri.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/8_Görüntü Piramitleri/.idea/8_Görüntü Piramitleri.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/9_Numpy/.idea/9_Numpy.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/9_Numpy/.idea/9_Numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Görüntü_işleme_1/.idea/Görüntü_işleme_1.iml" filepath="$PROJECT_DIR$/../Görüntü_işleme_1/.idea/Görüntü_işleme_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Görüntü_İşleme_2/.idea/Görüntü_İşleme_2.iml" filepath="$PROJECT_DIR$/../Görüntü_İşleme_2/.idea/Görüntü_İşleme_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hand-Gesture.iml" filepath="$PROJECT_DIR$/.idea/Hand-Gesture.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Görüntü İşleme/OpenCV'ye Giriş/.idea/OpenCV'ye Giriş.iml" filepath="$USER_HOME$/Desktop/Görüntü İşleme/OpenCV'ye Giriş/.idea/OpenCV'ye Giriş.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/YüzTanıma/.idea/Sunum.iml" filepath="$USER_HOME$/Desktop/YüzTanıma/.idea/Sunum.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/hand-gesture/.idea/hand-gesture.iml" filepath="$USER_HOME$/Desktop/hand-gesture/.idea/hand-gesture.iml" />
+    </modules>
+  </component>
+</project>
